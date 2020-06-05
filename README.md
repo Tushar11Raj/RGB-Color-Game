@@ -1,6 +1,8 @@
 
 <h1>RGB Color Game is a website where you have to guess a color based on its rgb form given to you. It is a HTML, CSS and JS based web page.</h1>
 
+<h3> <a href="https://tushar11raj.github.io/RGB-Color-Game/">GO TO LIVE WEBSITE</a>   </h3>
+
 
 You get six options to choose from : 
 
